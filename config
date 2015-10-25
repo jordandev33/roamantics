@@ -1,0 +1,4 @@
+Host github-jordandev
+  HostName github.com
+  User git
+  IdentityFile /Users/jordanbarber/Desktop/jordandev/.ssh/id_rsa
